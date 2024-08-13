@@ -10,5 +10,5 @@
 
 Dede3b/Dede3b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![](https://www.comprenautica.com.br/custom/domain_1/image_files/ckeditor/sitemgr_Medina%20voando%20na%20%C3%A1gua%20com%20prancha%20ao%20seu%20lado%20de%20p%C3%A9.jpg)
 
-![Romero domina a bola e faz embaixadinhas de cabeça contra o Palmeiras](https://i.makeagif.com/media/5-13-2018/43GqDR.gif)
